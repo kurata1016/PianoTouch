@@ -3,7 +3,7 @@ package jp.co.techfun.pianotouch;
 import android.annotation.SuppressLint;
 import android.content.res.Resources;
 import android.media.MediaPlayer;
-import android.util.Log;
+//import android.util.Log;
 import android.view.GestureDetector;
 import android.view.GestureDetector.SimpleOnGestureListener;
 import android.view.MotionEvent;

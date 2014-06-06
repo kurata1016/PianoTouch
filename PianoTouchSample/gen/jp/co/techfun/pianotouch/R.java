@@ -15,35 +15,44 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
-        public static final int k_b=0x7f020001;
-        public static final int k_b_p=0x7f020002;
-        public static final int k_w=0x7f020003;
-        public static final int k_w_p=0x7f020004;
+        public static final int frame=0x7f020000;
+        public static final int icon=0x7f020001;
+        public static final int k_b=0x7f020002;
+        public static final int k_b_p=0x7f020003;
+        public static final int k_w=0x7f020004;
+        public static final int k_w_p=0x7f020005;
+        public static final int pause=0x7f020006;
+        public static final int play=0x7f020007;
+        public static final int record=0x7f020008;
+        public static final int stop=0x7f020009;
     }
     public static final class id {
-        public static final int ibtn_a4=0x7f070006;
-        public static final int ibtn_a_s_4=0x7f070012;
-        public static final int ibtn_b4=0x7f070007;
-        public static final int ibtn_c4=0x7f070001;
-        public static final int ibtn_c5=0x7f070008;
-        public static final int ibtn_c_s_4=0x7f07000e;
-        public static final int ibtn_c_s_5=0x7f070013;
-        public static final int ibtn_d4=0x7f070002;
-        public static final int ibtn_d5=0x7f070009;
-        public static final int ibtn_d_s_4=0x7f07000f;
-        public static final int ibtn_d_s_5=0x7f070014;
-        public static final int ibtn_e4=0x7f070003;
-        public static final int ibtn_e5=0x7f07000a;
-        public static final int ibtn_f4=0x7f070004;
-        public static final int ibtn_f5=0x7f07000b;
-        public static final int ibtn_f_s_4=0x7f070010;
-        public static final int ibtn_f_s_5=0x7f070015;
-        public static final int ibtn_g4=0x7f070005;
-        public static final int ibtn_g5=0x7f07000c;
-        public static final int ibtn_g_s_4=0x7f070011;
-        public static final int layout_key_black=0x7f07000d;
-        public static final int layout_key_white=0x7f070000;
+        public static final int ibtn_a4=0x7f080006;
+        public static final int ibtn_a_s_4=0x7f080012;
+        public static final int ibtn_b4=0x7f080007;
+        public static final int ibtn_c4=0x7f080001;
+        public static final int ibtn_c5=0x7f080008;
+        public static final int ibtn_c_s_4=0x7f08000e;
+        public static final int ibtn_c_s_5=0x7f080013;
+        public static final int ibtn_d4=0x7f080002;
+        public static final int ibtn_d5=0x7f080009;
+        public static final int ibtn_d_s_4=0x7f08000f;
+        public static final int ibtn_d_s_5=0x7f080014;
+        public static final int ibtn_e4=0x7f080003;
+        public static final int ibtn_e5=0x7f08000a;
+        public static final int ibtn_f4=0x7f080004;
+        public static final int ibtn_f5=0x7f08000b;
+        public static final int ibtn_f_s_4=0x7f080010;
+        public static final int ibtn_f_s_5=0x7f080015;
+        public static final int ibtn_g4=0x7f080005;
+        public static final int ibtn_g5=0x7f08000c;
+        public static final int ibtn_g_s_4=0x7f080011;
+        public static final int layout_key_black=0x7f08000d;
+        public static final int layout_key_white=0x7f080000;
+        public static final int pause=0x7f080018;
+        public static final int play=0x7f080017;
+        public static final int record=0x7f080016;
+        public static final int stop=0x7f080019;
     }
     public static final class layout {
         public static final int pianotouchsample=0x7f030000;
@@ -73,5 +82,8 @@ public final class R {
     public static final class string {
         public static final int app_name=0x7f060000;
         public static final int img_img=0x7f060001;
+    }
+    public static final class style {
+        public static final int myButton=0x7f070000;
     }
 }
